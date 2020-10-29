@@ -1,4 +1,4 @@
-###Justificando o padrao escolhido
+Justificando o padrao escolhido
 
 O padrão escolhido por mim para refatoramento de código 
 foi o Template Method pois vi que nas classes de fabricar
