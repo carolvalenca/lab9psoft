@@ -1,6 +1,6 @@
-Justificando o padrao escolhido
+Justificando o padrão escolhido
 
-O padrão escolhido por mim para refatoramento de código 
+O padrão escolhido por mim para refatoração de código 
 foi o Template Method pois vi que nas classes de fabricar
 bolo as partes fixas e variáveis podiam ser identificadas
 facilmente, logo seria mais prático usar esse tipo de padrão
